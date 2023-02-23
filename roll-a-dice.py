@@ -19,7 +19,32 @@ while(resposta=='sim'):
         print("-----")
 
     if nu==3
-        print()
+        print("-----")
+        print("0    ")
+        print("  0  ")
+        print("    0")
+        print("-----")
+
+    if nu==4
+        print("-----")
+        print("0   0")
+        print("     ")
+        print("0   0")
+        print("-----")
+
+    if nu==5
+        print("-----")
+        print("0   0")
+        print("  0  ")
+        print("0   0")
+        print("-----")
+
+    if nu==6
+        print("-----")
+        print("0   0")
+        print("0   0")
+        print("0   0")
+        print("-----")
 
 
     resposta = str(input("você quer rolar o dado?"))

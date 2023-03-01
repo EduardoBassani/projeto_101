@@ -11,35 +11,35 @@ while(resposta=='sim'):
         print("     ")
         print("-----")
 
-    if nu==2
+    if nu==2:
         print("-----")
         print("0    ")
         print("     ")
         print("    0")
         print("-----")
 
-    if nu==3
+    if nu==3:
         print("-----")
         print("0    ")
         print("  0  ")
         print("    0")
         print("-----")
 
-    if nu==4
+    if nu==4:
         print("-----")
         print("0   0")
         print("     ")
         print("0   0")
         print("-----")
 
-    if nu==5
+    if nu==5:
         print("-----")
         print("0   0")
         print("  0  ")
         print("0   0")
         print("-----")
 
-    if nu==6
+    if nu==6:
         print("-----")
         print("0   0")
         print("0   0")
